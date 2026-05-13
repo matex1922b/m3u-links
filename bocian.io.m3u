@@ -1,0 +1,1039 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/782dyq5pextk45wgy4zp" x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/b7589e99b86a35a25306948e458cc5ef.png" tvg-id="tvp1.pl",TVP 1 HD
+http://bocian.io:8880/live/NL753811/552284900/105345.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/973d02b39d8460242cfe79887635c963.png" tvg-id="tvp2.pl",TVP 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105346.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/7e3420d2782f72c7b47bd3d4f4ba91de.png" tvg-id="tvp3.pl",TVP 3 HD
+http://bocian.io:8880/live/NL753811/552284900/105347.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/4fc089dcef909e1f2b7c6ba23ed4d208.png" tvg-id="tvp.pl",TVP HD
+http://bocian.io:8880/live/NL753811/552284900/105348.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png" tvg-id="polsat.pl",Polsat HD
+http://bocian.io:8880/live/NL753811/552284900/105349.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/2ff9b139bd723859d0a79125cbd190e9.png" tvg-id="polsat2.pl",Polsat 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105350.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/abdc327fd10084b3e6877cccbfd4f4e2.png" tvg-id="superpolsat.pl",Super Polsat HD
+http://bocian.io:8880/live/NL753811/552284900/105351.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png" tvg-id="tvn.pl",TVN HD
+http://bocian.io:8880/live/NL753811/552284900/105352.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/8976ea86fa5393676636d0d9bfe716ce.png" tvg-id="ttv.pl",TTV HD
+http://bocian.io:8880/live/NL753811/552284900/105353.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/f7c242d4f286ca40d1cc4c90d568a589.png" tvg-id="tv4.pl",TV4 HD
+http://bocian.io:8880/live/NL753811/552284900/105354.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/TV%206%20HD.png" tvg-id="tv6.pl",TV6 HD
+http://bocian.io:8880/live/NL753811/552284900/105355.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png" tvg-id="tvn7.pl",TVN 7 HD
+http://bocian.io:8880/live/NL753811/552284900/105356.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/ddbf13685943f24041438d7653d09f87.png" tvg-id="tvpuls.pl",TV Puls HD
+http://bocian.io:8880/live/NL753811/552284900/105357.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/526dedb5075de82a3a60fc48bdfb0e25.png" tvg-id="tvpuls2.pl",Puls 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105358.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/comedycentralhd.png" tvg-id="comedycentral.pl",Comedy Central HD
+http://bocian.io:8880/live/NL753811/552284900/105385.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/aff4676b89d4f41d548c39056da92c51.png" tvg-id="comedycentral.pl",Polsat Comedy Central Extra HD
+http://bocian.io:8880/live/NL753811/552284900/105386.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvnfabula.png" tvg-id="tvnfabula.pl",TVN Fabula HD
+http://bocian.io:8880/live/NL753811/552284900/105393.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/4c1993ef3762fba502ff20578d5c7651.png" tvg-id="tvpseriale.pl",TVP Seriale HD
+http://bocian.io:8880/live/NL753811/552284900/105398.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/b79d2096c66248cad58c309283bcd8d4.png" tvg-id="metrotv.pl",Metro HD
+http://bocian.io:8880/live/NL753811/552284900/105399.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/adventurehd.png" tvg-id="adventure.pl",Adventure HD
+http://bocian.io:8880/live/NL753811/552284900/105400.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/animalplanethd.png" tvg-id="animalplanet.pl",Animal Planet HD
+http://bocian.io:8880/live/NL753811/552284900/105401.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/7b0c0f3a88cd6e0ba5b4c2469ec62d9e.png" tvg-id="bbcfirst.pl",BBC First HD
+http://bocian.io:8880/live/NL753811/552284900/105402.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/bbclifestyle.png" tvg-id="bbclifestyle.pl",BBC Lifestyle HD
+http://bocian.io:8880/live/NL753811/552284900/105404.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/bbcearthhd.png" tvg-id="bbcearth.pl",BBC Earth HD
+http://bocian.io:8880/live/NL753811/552284900/105405.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/a663a79a5488f99aed3da06427d74be5.png" tvg-id="cbsreality.pl",CBS Reality HD
+http://bocian.io:8880/live/NL753811/552284900/105407.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/CI%20Polsat.png" tvg-id="cipolsat.pl",CI Polsat HD
+http://bocian.io:8880/live/NL753811/552284900/105408.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/canalplusdiscoveryhd.png" tvg-id="canalplusdokumenttv.pl",Canal+ Dokument HD
+http://bocian.io:8880/live/NL753811/552284900/105409.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/95ba0b8bff0356941e9e52c927d4278c.png" tvg-id="discovery.pl",Discovery HD
+http://bocian.io:8880/live/NL753811/552284900/105410.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/discoveryhistoria.png" tvg-id="discoveryhistoria.pl",Discovery Historia
+http://bocian.io:8880/live/NL753811/552284900/105411.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/discoverylifepoland.png" tvg-id="discoverylife.pl",Discovery Life HD
+http://bocian.io:8880/live/NL753811/552284900/105412.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/discoverysciencehd.png" tvg-id="discoveryscience.pl",Discovery Science HD
+http://bocian.io:8880/live/NL753811/552284900/105413.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/idhd.png" tvg-id="investigationdiscovery.pl",ID HD
+http://bocian.io:8880/live/NL753811/552284900/105414.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/domoplushd.png" tvg-id="domo.pl",Canal+ Domo HD
+http://bocian.io:8880/live/NL753811/552284900/105416.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/epicdramahd.png" tvg-id="epicdramahd.pl",Epic Drama HD
+http://bocian.io:8880/live/NL753811/552284900/105417.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/eentertainment.png" tvg-id="eentertainment.pl",E! Entertainment HD
+http://bocian.io:8880/live/NL753811/552284900/105418.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/6b7378044d05174e0c1dc78e7d545b8a.png" tvg-id="Show TV",Show TV HD
+http://bocian.io:8880/live/NL753811/552284900/134089.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/3e0f56568349f095c63e4484e9deacf0.png" tvg-id="foodnetwork.pl",Food Network HD
+http://bocian.io:8880/live/NL753811/552284900/105419.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/f3e2783dfb3517fce5251e6ffce65c8c.png" tvg-id="fokustv.pl",Fokus TV HD
+http://bocian.io:8880/live/NL753811/552284900/105420.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/50d4859f871c253cdd38796675a47bb3.png" tvg-id="history.pl",History HD
+http://bocian.io:8880/live/NL753811/552284900/105421.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/57ba1b309c448eae56337ebb48f80e4f.png" tvg-id="history2.pl",History 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105422.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/natgeohd.png" tvg-id="natgeo.pl",National Geographic HD
+http://bocian.io:8880/live/NL753811/552284900/105423.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/09f3e55d09d705c6b987fa46c2989d69.png" tvg-id="natgeowild.pl",National Geographic Wild HD
+http://bocian.io:8880/live/NL753811/552284900/105424.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/NatGeoPeople.png" tvg-id="natgeopeople.pl",Nat Geo People HD
+http://bocian.io:8880/live/NL753811/552284900/105425.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/planeteplushd.png" tvg-id="planete.pl",Planete+ HD
+http://bocian.io:8880/live/NL753811/552284900/105426.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/waterplanet.png" tvg-id="waterplanet.pl",Water Planet
+http://bocian.io:8880/live/NL753811/552284900/105427.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatdoku.png" tvg-id="polsatdoku.pl",Polsat Doku HD
+http://bocian.io:8880/live/NL753811/552284900/105428.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/9d123fd69b8da6ff39bd573bd18ab632.png" tvg-id="polsatviasathist.pl",Polsat Viasat History HD
+http://bocian.io:8880/live/NL753811/552284900/105429.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/128619136b16ade6483fed9c1254ffe4.png" tvg-id="polsatviasatexpl.pl",Polsat Viasat Explore HD
+http://bocian.io:8880/live/NL753811/552284900/105430.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsatviasatnature.png" tvg-id="polsatviasatnature.pl",Polsat Viasat Nature HD
+http://bocian.io:8880/live/NL753811/552284900/105431.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatcafe.png" tvg-id="polsatcafe.pl",Polsat Cafe HD
+http://bocian.io:8880/live/NL753811/552284900/105432.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatrodzina.png" tvg-id="polsatrodzina.pl",Polsat Rodzina HD
+http://bocian.io:8880/live/NL753811/552284900/105433.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/9eef0fc8228085e5e9b5780619f2870e.png" tvg-id="polsatseriale.pl",Polsat Seriale HD
+http://bocian.io:8880/live/NL753811/552284900/105434.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatplay.png" tvg-id="polsatplay.pl",Polsat Play HD
+http://bocian.io:8880/live/NL753811/552284900/105435.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/6e249520574a41bbba826c364d2cf320.png" tvg-id="Nuta Gold",Nuta Gold
+http://bocian.io:8880/live/NL753811/552284900/105437.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/kuchniaplushd.png" tvg-id="kuchniaplus.pl",Canal+ Kuchnia HD
+http://bocian.io:8880/live/NL753811/552284900/105438.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/31acab505e73cb9ae49fefed3e2dd6f7.png" tvg-id="studiomed.pl",StudioMed TV HD
+http://bocian.io:8880/live/NL753811/552284900/105440.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvnstylehd.png" tvg-id="tvnstyle.pl",TVN Style HD
+http://bocian.io:8880/live/NL753811/552284900/105441.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvs.png" tvg-id="tvs.pl",TVS
+http://bocian.io:8880/live/NL753811/552284900/105444.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/91ab8030e9246ebaec455b89869e7100.png" tvg-id="tvc.pl",TVC Polska
+http://bocian.io:8880/live/NL753811/552284900/105445.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tlchd.png" tvg-id="TLC",TLC HD
+http://bocian.io:8880/live/NL753811/552284900/105446.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/f2222d7903e9887844a97252645aa13e.png" tvg-id="TBN Polska",TBN Polska HD
+http://bocian.io:8880/live/NL753811/552284900/134088.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/e957dcbbbe591322f649cd96d961d18b.png" tvg-id="tele5.pl",TELE 5 HD
+http://bocian.io:8880/live/NL753811/552284900/105447.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="" tvg-id="novelasplus.pl",Novelas+
+http://bocian.io:8880/live/NL753811/552284900/135978.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/9f307ec416908b1a0c6c2693b67adb5e.png" tvg-id="novela.pl",Novela TV
+http://bocian.io:8880/live/NL753811/552284900/105448.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/ec451dcdb0bd3c0c363c1211ee732057.png" tvg-id="Polonia 1",Polonia 1
+http://bocian.io:8880/live/NL753811/552284900/105449.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/72d433544420288f327043443b9cd8dc.png" tvg-id="TVP Polonia",TVP Polonia
+http://bocian.io:8880/live/NL753811/552284900/105450.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvpkultura.png" tvg-id="TVP Kultura",TVP Kultura HD
+http://bocian.io:8880/live/NL753811/552284900/105451.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvprozrywka.png" tvg-id="TVP Rozrywka",TVP Rozrywka HD
+http://bocian.io:8880/live/NL753811/552284900/105452.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvphistoria.png" tvg-id="TVP Historia",TVP Historia
+http://bocian.io:8880/live/NL753811/552284900/105453.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/fc3ea3367270e2cf8691e88311b66078.png" tvg-id="tvpdokument.pl",TVP Dokument HD
+http://bocian.io:8880/live/NL753811/552284900/134087.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/nowatv.png" tvg-id="NOWA TV",Nowa TV HD
+http://bocian.io:8880/live/NL753811/552284900/105455.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/travelchannelhd.png" tvg-id="Travel Channel",Travel Channel HD
+http://bocian.io:8880/live/NL753811/552284900/105456.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/hgtv.png" tvg-id="HGTV",HGTV HD
+http://bocian.io:8880/live/NL753811/552284900/105457.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/25e20053ed7a0b71110207f5481bbe96.png" tvg-id="HOME TV",Home TV
+http://bocian.io:8880/live/NL753811/552284900/120417.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/zoomtv.png" tvg-id="ZOOM TV",Zoom TV
+http://bocian.io:8880/live/NL753811/552284900/105458.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/532e98d4746f65e900916bf78f97c775.png" tvg-id="TV OKAZJE",TV Okazje
+http://bocian.io:8880/live/NL753811/552284900/105459.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/TVT.png" tvg-id="TVT",TVT
+http://bocian.io:8880/live/NL753811/552284900/105519.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/wp1.png" tvg-id="WP",WP
+http://bocian.io:8880/live/NL753811/552284900/105460.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/68cac160461e39eab055592a7c795cd7.png" tvg-id="TV TRWAM",TV Trwam HD
+http://bocian.io:8880/live/NL753811/552284900/105461.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/a68da3b7c1a1694599c63812d3dd3df2.png" tvg-id="TVP Info",TVP Info HD
+http://bocian.io:8880/live/NL753811/552284900/105462.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvrepublika.png" tvg-id="tvrepublika.pl",TV Republika
+http://bocian.io:8880/live/NL753811/552284900/105463.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/wPolsce.pl.png" tvg-id="wPolsce.pl",wPolsce24
+http://bocian.io:8880/live/NL753811/552284900/105464.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/Biznes24+HD.png" tvg-id="biznes24hd.pl",Biznes24 HD
+http://bocian.io:8880/live/NL753811/552284900/119834.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews.png" tvg-id="Polsat News",Polsat News HD
+http://bocian.io:8880/live/NL753811/552284900/105465.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatnews2.png" tvg-id="POLSAT NEWS 2",Polsat News 2
+http://bocian.io:8880/live/NL753811/552284900/105466.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvn24hd.png" tvg-id="TVN 24",TVN 24 HD
+http://bocian.io:8880/live/NL753811/552284900/105467.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvn24biznesiswiat.png" tvg-id="TVN 24 BiS",TVN 24 BiS HD
+http://bocian.io:8880/live/NL753811/552284900/105468.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/872e5fb8651062c3a86cb667773dc62f.png" tvg-id="Antena",Antena
+http://bocian.io:8880/live/NL753811/552284900/151847.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/f9e7859024d3f269a3295e461ee99b81.png" tvg-id="Wydarzenia 24",Wydarzenia 24 HD
+http://bocian.io:8880/live/NL753811/552284900/151853.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/bbccbeebies.png" tvg-id="BBC CBeebies",BBC CBeebies HD
+http://bocian.io:8880/live/NL753811/552284900/105485.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/nickjr.png" tvg-id="Nick Jr.",Nick Jr Polska
+http://bocian.io:8880/live/NL753811/552284900/105486.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/nickelodeon.png" tvg-id="Nickelodeon",Nickelodeon
+http://bocian.io:8880/live/NL753811/552284900/105487.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/nicktoons.png" tvg-id="Nicktoons",NickToons HD
+http://bocian.io:8880/live/NL753811/552284900/105488.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/disneychannelhd.png" tvg-id="Disney Channel",Disney Channel HD
+http://bocian.io:8880/live/NL753811/552284900/105489.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/babytv.png" tvg-id="Baby TV",Baby TV
+http://bocian.io:8880/live/NL753811/552284900/105490.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://assets.www.warnerbros.com/drupal-root/public/cartoonito_-_logo_-_no_background.png" tvg-id="boomerang.pl",Cartoonito HD
+http://bocian.io:8880/live/NL753811/552284900/105491.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/cartoonnetworkhd.png" tvg-id="Cartoon Network",Cartoon Network HD
+http://bocian.io:8880/live/NL753811/552284900/105492.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/disneyjunior.png" tvg-id="Disney Junior",Disney Junior
+http://bocian.io:8880/live/NL753811/552284900/105493.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/a83dec3009a0b0ba1e484864eddbd654.png" tvg-id="Disney XD",Disney XD
+http://bocian.io:8880/live/NL753811/552284900/105494.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/miniminiplushd.png" tvg-id="Minimini+",MiniMini+ HD
+http://bocian.io:8880/live/NL753811/552284900/105495.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvpabc.png" tvg-id="TVP ABC",TVP ABC
+http://bocian.io:8880/live/NL753811/552284900/105496.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/jimjam.png" tvg-id="Polsat JimJam",Polsat Jim Jam
+http://bocian.io:8880/live/NL753811/552284900/105497.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/ac7f283bca75fdf911c6cf85d4b94a4d.png" tvg-id="Teletoon",TeleTOON+ HD
+http://bocian.io:8880/live/NL753811/552284900/105498.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/davincilearning.png" tvg-id="Da Vinci Learning",Da Vinci Learning
+http://bocian.io:8880/live/NL753811/552284900/105499.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/Top+Kids+HD.png" tvg-id="TOP KIDS",TOP Kids
+http://bocian.io:8880/live/NL753811/552284900/120419.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/9c0cb7101915944abc187d38c5be754c.png" tvg-id="teennick.pl",TeenNick HD
+http://bocian.io:8880/live/NL753811/552284900/152819.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png" tvg-id="4FUN KIDS",4Fun Kids
+http://bocian.io:8880/live/NL753811/552284900/105501.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/4funtv.png" tvg-id="4FUN TV",4Fun.TV
+http://bocian.io:8880/live/NL753811/552284900/105500.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/4fundance.png" tvg-id="4FUN DANCE",4Fun Dance
+http://bocian.io:8880/live/NL753811/552284900/105502.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/discopolomusic.png" tvg-id="Disco Polo Music",Disco Polo Music
+http://bocian.io:8880/live/NL753811/552284900/105503.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/eskatv.png" tvg-id="Eska TV",Eska TV HD
+http://bocian.io:8880/live/NL753811/552284900/105504.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/eskatvextra.png" tvg-id="Eska TV Extra",Eska TV Extra
+http://bocian.io:8880/live/NL753811/552284900/105505.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/eb15b32b0b69258d92a88c02dcdfae62.png" tvg-id="Eska Rock TV",Eska Rock TV
+http://bocian.io:8880/live/NL753811/552284900/105506.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/kinopolskamuzyka.png" tvg-id="Kino Polska Muzyka",Kino Polska Muzyka
+http://bocian.io:8880/live/NL753811/552284900/105507.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://1.bp.blogspot.com/-7hVOYAQhdjw/X07zvW_CIOI/AAAAAAAA6TQ/2EW0Kh7AUZA4X3RoOjgUW9_tPaoDgBH0gCLcBGAsYHQ/w410-h71/nick-music-2020.png" tvg-id="13ulica.pl",NickMusic
+http://bocian.io:8880/live/NL753811/552284900/105508.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/0c3b449361ed5fe382319aba9504c1ce.png" tvg-id="MTV Live HD",MTV Live HD
+http://bocian.io:8880/live/NL753811/552284900/105509.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/mtvpolska.png" tvg-id="MTV Polska",MTV Polska HD
+http://bocian.io:8880/live/NL753811/552284900/105510.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/4687cfb021a02cebf31a249689ecc60e.png" tvg-id="mtv90s.pl",MTV 90s
+http://bocian.io:8880/live/NL753811/552284900/105511.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/Nuta%20TV.png" tvg-id="Nuta TV",NUTA TV
+http://bocian.io:8880/live/NL753811/552284900/105512.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polotv.png" tvg-id="Polo TV",Polo TV HD
+http://bocian.io:8880/live/NL753811/552284900/105513.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsatmusichd.png" tvg-id="Polsat Music",Polsat Music HD
+http://bocian.io:8880/live/NL753811/552284900/105514.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/c364d6ccebb7748183f33f819a1a9482.png" tvg-id="POWER TV",Power TV
+http://bocian.io:8880/live/NL753811/552284900/105515.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/starstv.png" tvg-id="Stars TV",STARS.TV
+http://bocian.io:8880/live/NL753811/552284900/105516.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="" tvg-id="mtv00s.pl",MTV 00s
+http://bocian.io:8880/live/NL753811/552284900/105517.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/voxmusictv.png" tvg-id="Vox Music TV",VOX Music TV
+http://bocian.io:8880/live/NL753811/552284900/105518.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/3654b34017508a963ccce2426e91e4cd.png" tvg-id="amc.pl",AMC HD
+http://bocian.io:8880/live/NL753811/552284900/105360.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/alekinoplushd.png" tvg-id="alekino.pl",Ale Kino+ HD
+http://bocian.io:8880/live/NL753811/552284900/105361.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/canalplushd.png" tvg-id="canalpluspremium.pl",Canal+ PREMIUM HD
+http://bocian.io:8880/live/NL753811/552284900/105362.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/canalplus1hd.png" tvg-id="canalplus1.pl",Canal+ 1 HD
+http://bocian.io:8880/live/NL753811/552284900/105363.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/98cf6425061d6b8740dfc7ff7cff4c1f.png" tvg-id="canalplusfilm.pl",Canal+ Film HD
+http://bocian.io:8880/live/NL753811/552284900/105364.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/e405664b2aeba493f05db093737b1853.png" tvg-id="canalplusfamily.pl",Canal+ 360 HD
+http://bocian.io:8880/live/NL753811/552284900/105365.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/canalplusserialehd.png" tvg-id="canalplusseriale.pl",Canal+ Seriale HD
+http://bocian.io:8880/live/NL753811/552284900/105366.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/f9adcc04d047cc512ebe96f95745912f.png" tvg-id="hbo.pl",HBO HD
+http://bocian.io:8880/live/NL753811/552284900/105368.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-id="hbo2.pl",HBO 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105369.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/cee71028915464dbf234547f65c22c0e.png" tvg-id="hbo3.pl",HBO 3 HD
+http://bocian.io:8880/live/NL753811/552284900/105370.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/0874f230b6ba300544ba4f90689d9a72.png" tvg-id="cinemax.pl",Cinemax HD
+http://bocian.io:8880/live/NL753811/552284900/105371.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/cinemax2hd.png" tvg-id="cinemax2.pl",Cinemax 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105372.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/bf1b9303db9bce9f7d547ad418353b2a.png" tvg-id="filmboxextra.pl",Filmbox Extra HD
+http://bocian.io:8880/live/NL753811/552284900/105373.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/cff179fcdb23d2951807bc3040cda9c3.png" tvg-id="filmboxaction.pl",Filmbox Action
+http://bocian.io:8880/live/NL753811/552284900/105374.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/filmboxarthouse.png" tvg-id="filmboxarthouse.pl",Filmbox Arthouse
+http://bocian.io:8880/live/NL753811/552284900/105375.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/filmboxpremium.png" tvg-id="filmboxpremium.pl",Filmbox Premium HD
+http://bocian.io:8880/live/NL753811/552284900/105376.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/aa1e8832a1b2c29d9950c4899033b08a.png" tvg-id="filmboxfamily.pl",Filmbox Family
+http://bocian.io:8880/live/NL753811/552284900/105377.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/foxhd.png" tvg-id="fox.pl",FX HD
+http://bocian.io:8880/live/NL753811/552284900/105378.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/foxcomedyhd.png" tvg-id="foxcomedy.pl",FX Comedy HD
+http://bocian.io:8880/live/NL753811/552284900/105379.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/13ulicahd.png" tvg-id="13ulica.pl",13 Ulica HD
+http://bocian.io:8880/live/NL753811/552284900/105380.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/axnhd.png" tvg-id="axn.pl",AXN HD
+http://bocian.io:8880/live/NL753811/552284900/105381.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/axnblack.png" tvg-id="axnblack.pl",AXN Black
+http://bocian.io:8880/live/NL753811/552284900/105382.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/8d3a45db744642c838ec164e5c7b21dd.png" tvg-id="axnspin.pl",AXN Spin HD
+http://bocian.io:8880/live/NL753811/552284900/105383.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/axnwhite.png" tvg-id="axnwhite.pl",AXN White
+http://bocian.io:8880/live/NL753811/552284900/105384.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/stopklatkatv.png" tvg-id="stopklatka.pl",Stopklatka TV
+http://bocian.io:8880/live/NL753811/552284900/105387.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/7302859692925d4b45fb5b92ffa3dfd0.png" tvg-id="activefamily.pl",Active Family HD
+http://bocian.io:8880/live/NL753811/552284900/105388.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://fabryka.stream:8880/images/bfeea42f9d27d8a5e4879b4e7a55cb21.png" tvg-id="kinopolska.pl",Kino Polska HD
+http://bocian.io:8880/live/NL753811/552284900/105389.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/KinoTV.png" tvg-id="kinotv.pl",Kino TV HD
+http://bocian.io:8880/live/NL753811/552284900/105390.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/sundancehd.png" tvg-id="sundancetv.pl",Sundance HD
+http://bocian.io:8880/live/NL753811/552284900/105391.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatfilm.png" tvg-id="polsatfilm.pl",Polsat Film HD
+http://bocian.io:8880/live/NL753811/552284900/105392.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/27645951f8a7c8d54011f0ab86b64f5f.png" tvg-id="romancetv.pl",Romance TV HD
+http://bocian.io:8880/live/NL753811/552284900/105394.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/e9828e94e6fa51ccf2f1b4d5bf23230c.png" tvg-id="paramount.pl",Paramount Network HD
+http://bocian.io:8880/live/NL753811/552284900/105395.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/scifi.png" tvg-id="SCI FI",SciFi HD
+http://bocian.io:8880/live/NL753811/552284900/105396.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png" tvg-id="warnertv.pl",Warner TV HD
+http://bocian.io:8880/live/NL753811/552284900/105397.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/cbseuropa.png" tvg-id="cbseuropa.pl",Film Cafe HD
+http://bocian.io:8880/live/NL753811/552284900/105406.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%205.png" tvg-id="VOD 205",VOD 205
+http://bocian.io:8880/live/NL753811/552284900/105549.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%206.png" tvg-id="VOD 206",VOD 206
+http://bocian.io:8880/live/NL753811/552284900/105550.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%207.png" tvg-id="VOD 207",VOD 207
+http://bocian.io:8880/live/NL753811/552284900/105551.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/VOD%208.png" tvg-id="VOD 208",VOD 208
+http://bocian.io:8880/live/NL753811/552284900/105552.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/bbcbrit.png" tvg-id="bbcbrit.pl",BBC Brit HD
+http://bocian.io:8880/live/NL753811/552284900/105403.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/dtxhd.png" tvg-id="DTX",DTX HD
+http://bocian.io:8880/live/NL753811/552284900/105415.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/tvnturbohd.png" tvg-id="tvnturbo.pl",TVN Turbo HD
+http://bocian.io:8880/live/NL753811/552284900/105442.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/b6cc47559e49f4d10d8e27b8cb14816e.png" tvg-id="motowizja.pl",Motowizja HD
+http://bocian.io:8880/live/NL753811/552284900/105443.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/b7f3adca9ad46ea3909336fbb39bca4e.png" tvg-id="Canal+ Sport",Canal+ Sport HD
+http://bocian.io:8880/live/NL753811/552284900/105520.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/e3f46b60378e8f3057b59094ff3b81e7.png" tvg-id="Canal+ Sport 2",Canal+ Sport 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105521.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/canalplussport3hd.png" tvg-id="Canal+ Sport 3",Canal+ Sport 3 HD
+http://bocian.io:8880/live/NL753811/552284900/105522.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/ac7ce164e24691290dc17fd5fb2e8634.png" tvg-id="Canal+ Sport 4",Canal+ Sport 4 HD
+http://bocian.io:8880/live/NL753811/552284900/105523.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/canalplussporthd.png" tvg-id="Canal+ Sport 5",Canal+ Sport 5 HD
+http://bocian.io:8880/live/NL753811/552284900/153306.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/Canal+%20Now%20HD.png" tvg-id="Canal+ Now",Canal+ NOW HD
+http://bocian.io:8880/live/NL753811/552284900/105524.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png" tvg-id="Eleven Sports 1",Eleven Sports 1 HD
+http://bocian.io:8880/live/NL753811/552284900/105525.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png" tvg-id="Eleven Sports 2",Eleven Sports 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105526.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png" tvg-id="elevensports3.pl",Eleven Sports 3 HD
+http://bocian.io:8880/live/NL753811/552284900/105527.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png" tvg-id="elevensportsports4.pl",Eleven Sports 4 HD
+http://bocian.io:8880/live/NL753811/552284900/105528.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/905d9e9cec50adf2156cec18f26857d4.png" tvg-id="Polsat Sport",Polsat Sport 1 HD
+http://bocian.io:8880/live/NL753811/552284900/105530.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportextra.png" tvg-id="Polsat Sport Extra",Polsat Sport 3 HD
+http://bocian.io:8880/live/NL753811/552284900/105531.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportfight.png" tvg-id="Polsat Sport Fight",Polsat Sport Fight HD
+http://bocian.io:8880/live/NL753811/552284900/105532.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatsportnews.png" tvg-id="Polsat Sport News",Polsat Sport 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105533.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/polsat/polsatgames.png" tvg-id="Polsat Games",Polsat Games HD
+http://bocian.io:8880/live/NL753811/552284900/105534.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/e221f30d81d809132fda8bfe5a1b884e.png" tvg-id="Polsat Sport Premium 1",Polsat Sport Premium 1 HD
+http://bocian.io:8880/live/NL753811/552284900/105535.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/5eaf859784921ee6f80956b9b66a3a36.png" tvg-id="Polsat Sport Premium 2",Polsat Sport Premium 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105536.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/af502221e35e7b23823fa933b39d3791.png" tvg-id="Polsat Sport Premium 3",Polsat Sport Extra 3 HD
+http://bocian.io:8880/live/NL753811/552284900/105537.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/6cfef4132cd6259cdf6a37271a7afb4d.png" tvg-id="Polsat Sport Premium 4",Polsat Sport Extra 4 HD
+http://bocian.io:8880/live/NL753811/552284900/105538.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/dd022b750eb9dd37aacfce394a27929f.png" tvg-id="Polsat Sport Premium 5",Polsat Sport Extra 1 HD
+http://bocian.io:8880/live/NL753811/552284900/105539.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/5e451965e5093807801a588b8f104f63.png" tvg-id="Polsat Sport Premium 6",Polsat Sport Extra 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105540.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/FightKlub%20HD.png" tvg-id="fightklub.pl",Fightklub HD
+http://bocian.io:8880/live/NL753811/552284900/105541.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/extremesportshd.png" tvg-id="Extreme Sports Channel",Extreme Sports Channel HD
+http://bocian.io:8880/live/NL753811/552284900/105542.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/sportklub.png" tvg-id="Sportklub",Sportklub HD
+http://bocian.io:8880/live/NL753811/552284900/105543.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://epg.ovh/logo/Eurosport+HD.png" tvg-id="Eurosport",Eurosport 1 HD
+http://bocian.io:8880/live/NL753811/552284900/105544.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://epg.ovh/logo/Eurosport+2+PL.png" tvg-id="Eurosport 2",Eurosport 2 HD
+http://bocian.io:8880/live/NL753811/552284900/105545.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://epg.ovh/logo/Eurosport+3.png" tvg-id="Eurosport 3",Eurosport 3 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/1244767.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://epg.ovh/logo/Eurosport+4.png" tvg-id="Eurosport 4",Eurosport 4 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/1244768.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-id="FightBox",Fightbox HD
+http://bocian.io:8880/live/NL753811/552284900/105546.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/logo/golfchannel.png" tvg-id="Golf Channel",Golf Zone HD
+http://bocian.io:8880/live/NL753811/552284900/105547.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/fcf96423f74a741a0fa5f80e4f021f52.png" tvg-id="TVP Sport",TVP Sport HD
+http://bocian.io:8880/live/NL753811/552284900/105548.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_WarnerTV_422x278.png" tvg-id="Warner TV",Warner TV
+http://bocian.io:8880/live/NL753811/552284900/155028.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://e-cho.pl/wp-content/uploads/2021/03/TVP-Kobieta-logo-300x147.png" tvg-id="TVP Kobieta",TVP Kobieta HD
+http://bocian.io:8880/live/NL753811/552284900/155036.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/c4fdeabe7e79c676a426dfe7c310aa86.jpg" tvg-id="TVP Historia 2",TVP Historia 2
+http://bocian.io:8880/live/NL753811/552284900/155037.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png" tvg-id="TVP ABC 2",TVP ABC 2
+http://bocian.io:8880/live/NL753811/552284900/155038.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="http://logo.tvmedia.io/images/1ab90f6803db1250be7a5ca62e6ca2ff.png" tvg-id="TVP Nauka",TVP Nauka
+http://bocian.io:8880/live/NL753811/552284900/155039.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="" tvg-id="Xtreme TV",Xtreme TV
+http://bocian.io:8880/live/NL753811/552284900/155040.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="" tvg-id="Bollywood HD",BollywooD HD
+http://bocian.io:8880/live/NL753811/552284900/155041.ts
+#EXTINF:-1 group-title="PL | Telewizja" tvg-logo="" tvg-id="FILMAX",FilMax HD
+http://bocian.io:8880/live/NL753811/552284900/155043.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bialystok.png" tvg-id="TVP 3 Białystok" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Bialystok
+http://bocian.io:8880/live/NL753811/552284900/105469.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Bydgoszcz.png" tvg-id="TVP 3 Bydgoszcz" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Bydgoszcz
+http://bocian.io:8880/live/NL753811/552284900/105470.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gdansk.png" tvg-id="TVP 3 Gdańsk" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Gdansk
+http://bocian.io:8880/live/NL753811/552284900/105471.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Gorzow%20Wielkopolski.png" tvg-id="TVP 3 Gorzow Wielkopolski" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Gorzów Wielkopolski
+http://bocian.io:8880/live/NL753811/552284900/105472.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Katowice.png" tvg-id="TVP 3 Katowice" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Katowice
+http://bocian.io:8880/live/NL753811/552284900/105473.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Kielce.png" tvg-id="TVP 3 Kielce" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Kielce
+http://bocian.io:8880/live/NL753811/552284900/105474.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Krakow.png" tvg-id="TVP 3 Kraków" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Kraków
+http://bocian.io:8880/live/NL753811/552284900/105475.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Lublin.png" tvg-id="TVP 3 Lublin" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Lublin
+http://bocian.io:8880/live/NL753811/552284900/105476.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVPLodz.png" tvg-id="TVP 3 Łódź" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Lódz
+http://bocian.io:8880/live/NL753811/552284900/105477.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Olsztyn.png" tvg-id="TVP 3 Olsztyn" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Olsztyn
+http://bocian.io:8880/live/NL753811/552284900/105478.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Opole.png" tvg-id="TVP 3 Opole" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Opole
+http://bocian.io:8880/live/NL753811/552284900/105479.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Poznan.png" tvg-id="TVP 3 Poznań" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Poznan
+http://bocian.io:8880/live/NL753811/552284900/105480.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Rzeszow.png" tvg-id="TVP 3 Rzeszow" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Rzeszów
+http://bocian.io:8880/live/NL753811/552284900/105481.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Szczecin.png" tvg-id="TVP 3 Szczecin" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Szczecin
+http://bocian.io:8880/live/NL753811/552284900/105482.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%203%20Warszawa.png" tvg-id="TVP 3 Warszawa" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Warszawa
+http://bocian.io:8880/live/NL753811/552284900/105483.ts
+#EXTINF:-1 group-title="PL | Regionalne" tvg-logo="http://logo.tvmedia.io/images/logo/TVP%20Wroclaw.png" tvg-id="TVP 3 Wrocław" tv_archive="1" catchup="default" tv_archive_duration="7" catchup-days="7",TVP 3 Wroclaw
+http://bocian.io:8880/live/NL753811/552284900/105484.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png" tvg-id="TVN Pora na Show Online",TVN Pora na Show
+http://bocian.io:8880/live/NL753811/552284900/170452.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Milionerzy Online",TVN Milionerzy
+http://bocian.io:8880/live/NL753811/552284900/170431.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Player_%28TVN%29.svg/1200px-Player_%28TVN%29.svg.png" tvg-id="TVN Kultowe Seriale Online",TVN Kultowe Seriale
+http://bocian.io:8880/live/NL753811/552284900/170432.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Momenty Prawdy Online",TVN Momenty Prawdy
+http://bocian.io:8880/live/NL753811/552284900/170433.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Moto Online",TVN Moto
+http://bocian.io:8880/live/NL753811/552284900/170434.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Prawo i Życie Online",TVN Prawo i Zycie
+http://bocian.io:8880/live/NL753811/552284900/170435.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Rajska Miłość Online",TVN Rajska Milosc
+http://bocian.io:8880/live/NL753811/552284900/170436.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Rewolucje w Kuchni Online",TVN Rewolucje W Kuchni
+http://bocian.io:8880/live/NL753811/552284900/170437.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Seriale o Kobietach Online",TVN Seriale O Kobietach
+http://bocian.io:8880/live/NL753811/552284900/170438.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Szkoła Życia Online",TVN Szkola Zycia
+http://bocian.io:8880/live/NL753811/552284900/170439.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Szpitalne Historie Online",TVN Szpitalne Historie
+http://bocian.io:8880/live/NL753811/552284900/170440.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Talk Show Online",TVN Talk Show
+http://bocian.io:8880/live/NL753811/552284900/170441.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Telenowele Online",TVN Telenowele
+http://bocian.io:8880/live/NL753811/552284900/170442.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Usterka Online",TVN Usterka
+http://bocian.io:8880/live/NL753811/552284900/170443.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN W Domu Online",TVN W Domu
+http://bocian.io:8880/live/NL753811/552284900/170444.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Życie Jak w Bajce Online",TVN Zycie Jak W Bajce
+http://bocian.io:8880/live/NL753811/552284900/170445.ts
+#EXTINF:-1 group-title="PL | Fast" tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=65&type=0&srcw=1/1&srch=1/1" tvg-id="TVN Kryminalnie Online",TVN Kryminalnie
+http://bocian.io:8880/live/NL753811/552284900/170446.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Prime+MMA.png" tvg-id="",Prime MMA
+http://bocian.io:8880/live/NL753811/552284900/154937.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/FAME+MMA+HD.png" tvg-id="Canal+ Live 5",FAME MMA
+http://bocian.io:8880/live/NL753811/552284900/152821.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" tvg-id="Canal+ Extra 1",Canal+ EXTRA 1 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/993134.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" tvg-id="Canal+ Extra 2",Canal+ EXTRA 2 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/993135.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" tvg-id="Canal+ Extra 3",Canal+ EXTRA 3 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/993136.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" tvg-id="Canal+ Extra 4",Canal+ EXTRA 4 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/993137.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Extra+5.png" tvg-id="Canal+ Extra 5",Canal+ EXTRA 5 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/784444.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Extra+6.png" tvg-id="Canal+ Extra 6",Canal+ EXTRA 6 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/784445.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Extra+7.png" tvg-id="Canal+ Extra 7",Canal+ EXTRA 7 HD
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/784451.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Live+1.png" tvg-id="Canal+ Live 1",Canal+ Event 1
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/1246459.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Live+2.png" tvg-id="Canal+ Live 2",Canal+ Event 2
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/1246458.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Live+2.png" tvg-id="Canal+ Live 3",Canal+ Event 3
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/1246457.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Live+4.png" tvg-id="Canal+ Live 4",Canal+ Event 4
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/1246456.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/Canal++Live+5.png" tvg-id="Canal+ Live 5",Canal+ Event 5
+http://cloud.pdlol.org/live/Ivan/f8UcCUbWec/1246460.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/KSW%20PL.png" tvg-id="KSW",KSW TV
+http://bocian.io:8880/live/NL753811/552284900/105553.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/PPV+Event+1.png" tvg-id="",PPV Event 1 - ( Live Only )
+http://bocian.io:8880/live/NL753811/552284900/170426.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/PPV+Event+2.png" tvg-id="",PPV Event 2 - ( Live Only )
+http://bocian.io:8880/live/NL753811/552284900/170505.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/picons%20by%20zet71.png" tvg-id="",Clout MMA
+http://bocian.io:8880/live/NL753811/552284900/154936.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/picons%20by%20zet71.png" tvg-id="",Gromda
+http://bocian.io:8880/live/NL753811/552284900/154938.ts
+#EXTINF:-1 group-title="PL | Sport Events & PPV" tvg-logo="https://epg.ovh/logo/picons%20by%20zet71.png" tvg-id="",FEN
+http://bocian.io:8880/live/NL753811/552284900/154939.ts
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/_bGM7FGb-5k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD0Z0UzXlmlsuC7QDMiNmLABgW1Zw" tvg-id="GRAŻA BY TAK CHCIAŁA",Graża By Tak Chciała HD
+https://pixeldrain.com/api/file/FBrC2YAy
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/J3U_Mn5fkr8/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-DoACuAiKAgwIABABGGUgVShNMA8=&rs=AOn4CLCWT6DiDJ-85gf94Hzt2UEY_cPWLw" tvg-id="INFLACJA",Inflacja HD
+https://pixeldrain.com/api/file/CdUCvnXh
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/mF5iXKt2GVo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBv24HIZvDrFq8bsFPAm8w-q8QvkQ" tvg-id="ŻULU JEDEN",Żulu Jeden HD
+https://pixeldrain.com/api/file/1d4GowRW
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/nz8E9ZNK3pU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-L4dzyMH2zbxVz33MRm_QGhuyhw" tvg-id="HALO TU LONDYN",Halo Tu Londyn FHD
+https://pixeldrain.com/api/file/8mUVu7sW
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/b3U_CSaJHuI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwgDBjJlx96WTQXK_xK5vUEsiOYA" tvg-id="CAT DEALERS PUMP IT",Cat Dealers Pump It HD
+https://pixeldrain.com/api/file/jbJPCV8q
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/3IyQgj50fI8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1Qz6_EBBiOJ1ooKVViPxKiYlZgg" tvg-id="STROMAE ALORS ON DANSE",Stromae Alors On Danse FHD
+https://pixeldrain.com/api/file/TCBJJruN
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/aB1eEiCzJ_k/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEsgXChlMA8=&rs=AOn4CLDGo8Qop26e37W3Ou8biRQi-P9kEw" tvg-id="BASS CO CZYSCI CI USZY",Bass Co Czyści Ci Uszy FHD
+https://pixeldrain.com/api/file/2krBvKpQ
+#EXTINF:-1 group-title="PL | Muzyka M3U" tvg-logo="https://i.ytimg.com/vi/xmKRSJamquM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPjUcHYNHOWbWi8IkVAiBU8pCemw" tvg-id="NOWATOR Z LEWA DO PRAWA",Nowator Z Lewa Do Prawa 2K
+https://pixeldrain.com/api/file/jAWqaz9z
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/rmffm.png" tvg-id="",RMF FM
+http://bocian.io:8880/live/NL753811/552284900/151572.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioZet.png" tvg-id="",Radio ZET
+http://bocian.io:8880/live/NL753811/552284900/151573.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/zloteprzeboje.png" tvg-id="",Zlote Przeboje
+http://bocian.io:8880/live/NL753811/552284900/151574.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/rmfmaxx.png" tvg-id="",RMF MAXXX
+http://bocian.io:8880/live/NL753811/552284900/151575.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/jedynka.png" tvg-id="",Jedynka Polskie Radio
+http://bocian.io:8880/live/NL753811/552284900/151576.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/antyradio.png" tvg-id="",Antyradio
+http://bocian.io:8880/live/NL753811/552284900/151577.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/tokfm.png" tvg-id="",TOK Fm
+http://bocian.io:8880/live/NL753811/552284900/151578.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/rockradio.png" tvg-id="",Rock Radio
+http://bocian.io:8880/live/NL753811/552284900/151579.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/1FMAmsterdamTrance.png" tvg-id="",1.FM - Amsterdam Trance
+http://bocian.io:8880/live/NL753811/552284900/151580.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlusGdansk.png" tvg-id="",Radio Plus - Gdansk
+http://bocian.io:8880/live/NL753811/552284900/151581.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/antenneBayernChillout.png" tvg-id="",Antenne Bayern Chillout
+http://bocian.io:8880/live/NL753811/552284900/151582.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPogoda.png" tvg-id="",Radio Pogoda - Warszawa
+http://bocian.io:8880/live/NL753811/552284900/151583.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlus.png" tvg-id="",Radio Plus
+http://bocian.io:8880/live/NL753811/552284900/151584.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFMDiscoPolo.png" tvg-id="",OPEN.FM - Disco Polo
+http://bocian.io:8880/live/NL753811/552284900/151585.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFMPraca.png" tvg-id="",OPEN.FM - Praca
+http://bocian.io:8880/live/NL753811/552284900/151586.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioSwissJazz.png" tvg-id="",Radio Swiss Jazz
+http://bocian.io:8880/live/NL753811/552284900/151587.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/1FMChilloutLounge.png" tvg-id="",1.FM - Chillout Lounge
+http://bocian.io:8880/live/NL753811/552284900/151588.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/Radio7.png" tvg-id="",Radio 7 - Mlawa
+http://bocian.io:8880/live/NL753811/552284900/151589.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/ABCLounge.png" tvg-id="",ABC Lounge
+http://bocian.io:8880/live/NL753811/552284900/151590.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioBercikSilesia.png" tvg-id="",Radio Bercik Silesia
+http://bocian.io:8880/live/NL753811/552284900/151591.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFDance.png" tvg-id="",RMF Dance
+http://bocian.io:8880/live/NL753811/552284900/151592.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/PolskieRadio24.png" tvg-id="",Polskie Radio 24
+http://bocian.io:8880/live/NL753811/552284900/151593.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFMItaloDisco.png" tvg-id="",OPEN.FM - Italo Disco
+http://bocian.io:8880/live/NL753811/552284900/151594.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/meloradio.png" tvg-id="",Meloradio - Warszawa
+http://bocian.io:8880/live/NL753811/552284900/151595.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFClassic.png" tvg-id="",RMF Classic
+http://bocian.io:8880/live/NL753811/552284900/151596.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPaloma.png" tvg-id="",Radio Paloma - Live
+http://bocian.io:8880/live/NL753811/552284900/151597.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/KISSFMUK.png" tvg-id="",Kiss FM UK
+http://bocian.io:8880/live/NL753811/552284900/151598.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlusWarszawa.png" tvg-id="",Radio Plus - Warszawa
+http://bocian.io:8880/live/NL753811/552284900/151599.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/MUZOFM.png" tvg-id="",MUZO.FM
+http://bocian.io:8880/live/NL753811/552284900/151600.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-CremaCafe.png" tvg-id="",OPEN.FM - Crema Café
+http://bocian.io:8880/live/NL753811/552284900/151601.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/meloradiokrakow.png" tvg-id="",Meloradio - Kraków
+http://bocian.io:8880/live/NL753811/552284900/151602.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFPRL.png" tvg-id="",RMF FM - PRL
+http://bocian.io:8880/live/NL753811/552284900/151603.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/1FM-DeepHouse.png" tvg-id="",1.FM - Deep House
+http://bocian.io:8880/live/NL753811/552284900/151604.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPogodaWroclaw.png" tvg-id="",Radio Pogoda - Wroclaw
+http://bocian.io:8880/live/NL753811/552284900/151605.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/SlaskieRadio.png" tvg-id="",Slaskie Radio
+http://bocian.io:8880/live/NL753811/552284900/151606.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/SlonskyRadio.png" tvg-id="",Sunshine Live
+http://bocian.io:8880/live/NL753811/552284900/151607.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/PlanetRock.png" tvg-id="",Planet Rock - UK
+http://bocian.io:8880/live/NL753811/552284900/151608.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPartyHouse.png" tvg-id="",RadioParty House
+http://bocian.io:8880/live/NL753811/552284900/151609.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/meloradioKatowice.png" tvg-id="",Meloradio - Katowice
+http://bocian.io:8880/live/NL753811/552284900/151610.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Hip-HopUlica.png" tvg-id="",OPEN.FM - Hip-Hop Ulica
+http://bocian.io:8880/live/NL753811/552284900/151611.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPiekary.png" tvg-id="",Radio Piekary
+http://bocian.io:8880/live/NL753811/552284900/151612.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioSilesia.png" tvg-id="",Radio Silesia
+http://bocian.io:8880/live/NL753811/552284900/151613.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/Chilltrax.png" tvg-id="",Chilltrax
+http://bocian.io:8880/live/NL753811/552284900/151614.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMF80s.png" tvg-id="",RMF FM - 80s
+http://bocian.io:8880/live/NL753811/552284900/151615.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFPolskiePrzeboje.png" tvg-id="",RMF Polskie Przeboje
+http://bocian.io:8880/live/NL753811/552284900/151616.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Hip-HopKlasyk.png" tvg-id="",OPEN.FM - Hip-Hop Klasyk
+http://bocian.io:8880/live/NL753811/552284900/151617.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/meloradioBielskoBiala.png" tvg-id="",Meloradio - Bielsko-Biala
+http://bocian.io:8880/live/NL753811/552284900/151618.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Impreza.png" tvg-id="",OPEN.FM - Impreza
+http://bocian.io:8880/live/NL753811/552284900/151619.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Wesele.png" tvg-id="",OPEN.FM - Wesele
+http://bocian.io:8880/live/NL753811/552284900/151620.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-100%Hits.png" tvg-id="",OPEN.FM - 100% Hits
+http://bocian.io:8880/live/NL753811/552284900/151621.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/CostaDelMar-Chillout.png" tvg-id="",Costa Del Mar - Chillout
+http://bocian.io:8880/live/NL753811/552284900/151622.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/ChilliZETDeep.png" tvg-id="",Chilli ZET Deep
+http://bocian.io:8880/live/NL753811/552284900/151623.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/BBCWorldService.png" tvg-id="",BBC World Service
+http://bocian.io:8880/live/NL753811/552284900/151624.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioGraWroclaw.png" tvg-id="",Radio Gra Wroclaw
+http://bocian.io:8880/live/NL753811/552284900/151625.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioKujawy.png" tvg-id="",Radio Kujawy
+http://bocian.io:8880/live/NL753811/552284900/151626.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/meloradioTorun.png" tvg-id="",Meloradio - Torun
+http://bocian.io:8880/live/NL753811/552284900/151627.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/eurodance.png" tvg-id="",Eurodance
+http://bocian.io:8880/live/NL753811/552284900/151628.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-80sHits.png" tvg-id="",OPEN.FM - 80s Hits
+http://bocian.io:8880/live/NL753811/552284900/151629.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/Radio90pl.png" tvg-id="",Radio 90
+http://bocian.io:8880/live/NL753811/552284900/151630.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioKissKissItalia.png" tvg-id="",Radio Kiss Kiss Italia
+http://bocian.io:8880/live/NL753811/552284900/151631.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RusskoeRadio.png" tvg-id="",Russkoe Radio ??????? ?????
+http://bocian.io:8880/live/NL753811/552284900/151671.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/CafedelMarRadio.png" tvg-id="",Café del Mar Radio
+http://bocian.io:8880/live/NL753811/552284900/151670.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioKolor.png" tvg-id="",Radio Kolor
+http://bocian.io:8880/live/NL753811/552284900/151669.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-PoPolsku.png" tvg-id="",OPEN.FM - Po Polsku 80/90
+http://bocian.io:8880/live/NL753811/552284900/151668.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Klub90.png" tvg-id="",Open.FM - Klub 90
+http://bocian.io:8880/live/NL753811/552284900/151667.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/JazzRadio-ClassicJazz.png" tvg-id="",Jazz Radio - Classic Jazz
+http://bocian.io:8880/live/NL753811/552284900/151666.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioBielsko.png" tvg-id="",Radio Bielsko 106,7
+http://bocian.io:8880/live/NL753811/552284900/151665.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-LejdisCafe.png" tvg-id="",OpenFM - Lejdis Café
+http://bocian.io:8880/live/NL753811/552284900/151664.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RT180s.png" tvg-id="",RT1 80s
+http://bocian.io:8880/live/NL753811/552284900/151663.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/Dwojka-PolskieRadioProgram2.png" tvg-id="",Radio Dwójka
+http://bocian.io:8880/live/NL753811/552284900/151662.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioWesoleSlonzoki.png" tvg-id="",Radio Wesole Slonzoki
+http://bocian.io:8880/live/NL753811/552284900/151661.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/newonceradio.png" tvg-id="",Newonce Radio
+http://bocian.io:8880/live/NL753811/552284900/151660.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioFEST.png" tvg-id="",Radio FEST
+http://bocian.io:8880/live/NL753811/552284900/151658.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioHIT.png" tvg-id="",Radio HIT
+http://bocian.io:8880/live/NL753811/552284900/151657.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/TechnoBaseFM.png" tvg-id="",TechnoBase.FM
+http://bocian.io:8880/live/NL753811/552284900/151645.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlusBydgoszcz.png" tvg-id="",Radio Plus - Bydgoszcz
+http://bocian.io:8880/live/NL753811/552284900/151646.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFLove.png" tvg-id="",RMF Love
+http://bocian.io:8880/live/NL753811/552284900/151647.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/SlaskieRadio.png" tvg-id="",Slonsky Radio
+http://bocian.io:8880/live/NL753811/552284900/151648.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioZETKids.png" tvg-id="",Radio ZET Kids
+http://bocian.io:8880/live/NL753811/552284900/151649.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/ROCKANTENNE-HeavyMetal.png" tvg-id="",ROCK ANTENNE - Heavy Metal
+http://bocian.io:8880/live/NL753811/552284900/151650.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/1FM-AbsolutelyCountryHits.png" tvg-id="",1.FM - Absolutely Country Hits
+http://bocian.io:8880/live/NL753811/552284900/151651.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AStateofTranceSetsfromArminvanBuuren.png" tvg-id="",A State of Trance Sets from Armin van Buuren
+http://bocian.io:8880/live/NL753811/552284900/151652.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioTczew.png" tvg-id="",Radio Tczew 100,8 FM
+http://bocian.io:8880/live/NL753811/552284900/151653.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/TheJazzGroove-West.png" tvg-id="",The Jazz Groove - West
+http://bocian.io:8880/live/NL753811/552284900/151654.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/Czworka-PolskieRadioProgram4.png" tvg-id="",Radio Czwórka
+http://bocian.io:8880/live/NL753811/552284900/151655.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMF90s.png" tvg-id="",RMF 90s
+http://bocian.io:8880/live/NL753811/552284900/151656.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPartyKanalGlowny.png" tvg-id="",RadioParty Kanal Glówny
+http://bocian.io:8880/live/NL753811/552284900/151633.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioHeimatmelodie.png" tvg-id="",Radio Heimatmelodie
+http://bocian.io:8880/live/NL753811/552284900/151634.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/GayFM.png" tvg-id="",Gay FM
+http://bocian.io:8880/live/NL753811/552284900/151635.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFGold.png" tvg-id="",RMF Gold
+http://bocian.io:8880/live/NL753811/552284900/151636.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteChillout.png" tvg-id="",Absolute Chillout
+http://bocian.io:8880/live/NL753811/552284900/151637.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AntyradioClassicRock.png" tvg-id="",Antyradio Classic Rock
+http://bocian.io:8880/live/NL753811/552284900/151638.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioSwissClassic.png" tvg-id="",Radio Swiss Classic
+http://bocian.io:8880/live/NL753811/552284900/151639.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/JazzRadio-Blues.png" tvg-id="",Jazz Radio - Blues
+http://bocian.io:8880/live/NL753811/552284900/151640.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Biesiada.png" tvg-id="",OPEN.FM - Biesiada
+http://bocian.io:8880/live/NL753811/552284900/151641.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioGRATorun.png" tvg-id="",Radio Gra Torun
+http://bocian.io:8880/live/NL753811/552284900/151642.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/1FM-AmericasBestBallads.png" tvg-id="",1.FM - America's Best Ballads
+http://bocian.io:8880/live/NL753811/552284900/151643.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/radioCENTRUM.png" tvg-id="",Radio Centrum 106.4 fm
+http://bocian.io:8880/live/NL753811/552284900/151644.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/Trojka-PolskieRadio.png" tvg-id="",Radio Trójka
+http://bocian.io:8880/live/NL753811/552284900/151632.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/VoxFM.png" tvg-id="",VOX FM
+http://bocian.io:8880/live/NL753811/552284900/151691.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/BBC1Xtra.png" tvg-id="",BBC Radio 1Xtra
+http://bocian.io:8880/live/NL753811/552284900/151690.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/KIISEXTRA.png" tvg-id="",KIIS EXTRA 95.8 CORFU
+http://bocian.io:8880/live/NL753811/552284900/151689.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Latino.png" tvg-id="",OPEN.FM - Latino Hits
+http://bocian.io:8880/live/NL753811/552284900/151688.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/EskaDance.png" tvg-id="",Eska Dance
+http://bocian.io:8880/live/NL753811/552284900/151687.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFFitnes.png" tvg-id="",RMF Fitness
+http://bocian.io:8880/live/NL753811/552284900/151686.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RMFFitnessRock.png" tvg-id="",RMF Fitness Rock
+http://bocian.io:8880/live/NL753811/552284900/151685.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/1AFitness.png" tvg-id="",1A Fitness
+http://bocian.io:8880/live/NL753811/552284900/151684.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Fitness.png" tvg-id="",OPEN.FM - Fitness
+http://bocian.io:8880/live/NL753811/552284900/151683.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioCompanyFitness.png" tvg-id="",Radio Company Fitness
+http://bocian.io:8880/live/NL753811/552284900/151682.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/ENERGYFitness.png" tvg-id="",Energy Fitness
+http://bocian.io:8880/live/NL753811/552284900/151681.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/" tvg-id="",LBC
+http://bocian.io:8880/live/NL753811/552284900/151680.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPartyEnergy2000.png" tvg-id="",Energy 2000
+http://bocian.io:8880/live/NL753811/552284900/151672.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/HeartLondon.png" tvg-id="",Heart London
+http://bocian.io:8880/live/NL753811/552284900/151673.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/CapitalFMLondon.png" tvg-id="",Capital FM London
+http://bocian.io:8880/live/NL753811/552284900/151674.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio.png" tvg-id="",Absolute Radio
+http://bocian.io:8880/live/NL753811/552284900/151675.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio90s.png" tvg-id="",Absolute Radio 90s
+http://bocian.io:8880/live/NL753811/552284900/151676.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio80s.png" tvg-id="",Absolute Radio 80s
+http://bocian.io:8880/live/NL753811/552284900/151677.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio70s.png" tvg-id="",Absolute Radio 70s
+http://bocian.io:8880/live/NL753811/552284900/151678.ts
+#EXTINF:-1 group-title="Radio" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio60s.png" tvg-id="",Absolute Radio 60s
+http://bocian.io:8880/live/NL753811/552284900/151679.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="" tvg-id="",ENG | FTV 4K
+http://bocian.io:8880/live/NL753811/552284900/151135.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="" tvg-id="bloombergtv.uk",ENG: Bloomberg 4K
+http://bocian.io:8880/live/NL753811/552284900/151142.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="http://logo.tvmedia.io/images/88c0ae17a1ee0ffa89336923f9211fbe.png" tvg-id="Museum UHD",PL | Museum 4K
+http://bocian.io:8880/live/NL753811/552284900/151263.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="" tvg-id="",EUROSPORT 4K (OFF AIR)
+http://bocian.io:8880/live/NL753811/552284900/151264.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP_4K.svg/320px-TVP_4K.svg.png" tvg-id="TVP 4K",PL | TVP 4K (OFF AIR)
+http://bocian.io:8880/live/NL753811/552284900/151571.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="" tvg-id="",DE: Eagle Entdeckernatur 4K ULTRA HD
+http://bocian.io:8880/live/NL753811/552284900/152122.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="" tvg-id="",DE: RTL UHD 4K
+http://bocian.io:8880/live/NL753811/552284900/152412.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="http://logo.tvmedia.io/images/c83a83f176a26f957fd134ba36a5e330.png" tvg-id="Eleven Sports 4K",PL | Eleven Sports 1 4K
+http://bocian.io:8880/live/NL753811/552284900/153189.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="http://logo.tvmedia.io/images/54f0b262c26a2937d17687d78fb5f759.png" tvg-id="Love Nature 4K",PL | Love Nature
+http://bocian.io:8880/live/NL753811/552284900/153387.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="http://logo.tvmedia.io/images/3be2f0efa71dc423acea96333f55cdd7.png" tvg-id="MYZEN.TV",PL | MyZen 4K
+http://bocian.io:8880/live/NL753811/552284900/155031.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="http://logo.tvmedia.io/images/f0dccf0347828b775ad092efd6c23099.png" tvg-id="Travelxp 4K",PL | Travelxp 4K
+http://bocian.io:8880/live/NL753811/552284900/155032.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="https://infosatbg.com/wp-content/uploads/2019/01/nasa_tv_us_uhd3332.png" tvg-id="NASA UHD",Nasa TV UHD
+http://bocian.io:8880/live/NL753811/552284900/155033.ts
+#EXTINF:-1 group-title="4K Live TV (UHD)" tvg-logo="" tvg-id="fast-n-funbox-hd",Insight UHD
+http://bocian.io:8880/live/NL753811/552284900/155035.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/rmffm.png" tvg-id="",RMF FM
+http://bocian.io:8880/live/NL753811/552284900/151268.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioZet.png" tvg-id="",Radio ZET
+http://bocian.io:8880/live/NL753811/552284900/151269.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/zloteprzeboje.png" tvg-id="",Złote Przeboje
+http://bocian.io:8880/live/NL753811/552284900/151270.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/rmfmaxx.png" tvg-id="",RMF MAXXX
+http://bocian.io:8880/live/NL753811/552284900/151271.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/jedynka.png" tvg-id="",Jedynka Polskie Radio
+http://bocian.io:8880/live/NL753811/552284900/151272.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/antyradio.png" tvg-id="",Antyradio
+http://bocian.io:8880/live/NL753811/552284900/151273.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/345a594604e431e35eb860d915dcab16.png" tvg-id="",TOK Fm
+http://bocian.io:8880/live/NL753811/552284900/151274.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/rockradio.png" tvg-id="",Rock Radio
+http://bocian.io:8880/live/NL753811/552284900/151275.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/1FMAmsterdamTrance.png" tvg-id="",1.FM - Amsterdam Trance
+http://bocian.io:8880/live/NL753811/552284900/151276.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlusGdansk.png" tvg-id="",Radio Plus - Gdańsk
+http://bocian.io:8880/live/NL753811/552284900/151277.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/antenneBayernChillout.png" tvg-id="",Antenne Bayern Chillout
+http://bocian.io:8880/live/NL753811/552284900/151278.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPogoda.png" tvg-id="",Radio Pogoda - Warszawa
+http://bocian.io:8880/live/NL753811/552284900/151279.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlus.png" tvg-id="",Radio Plus
+http://bocian.io:8880/live/NL753811/552284900/151280.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFMDiscoPolo.png" tvg-id="",OPEN.FM - Disco Polo
+http://bocian.io:8880/live/NL753811/552284900/151281.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFMPraca.png" tvg-id="",OPEN.FM - Praca
+http://bocian.io:8880/live/NL753811/552284900/151282.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioSwissJazz.png" tvg-id="",Radio Swiss Jazz
+http://bocian.io:8880/live/NL753811/552284900/151283.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/1FMChilloutLounge.png" tvg-id="",1.FM - Chillout Lounge
+http://bocian.io:8880/live/NL753811/552284900/151284.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/Radio7.png" tvg-id="",Radio 7 - Mława
+http://bocian.io:8880/live/NL753811/552284900/151285.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/ABCLounge.png" tvg-id="",ABC Lounge
+http://bocian.io:8880/live/NL753811/552284900/151286.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioBercikSilesia.png" tvg-id="",Radio Bercik Silesia
+http://bocian.io:8880/live/NL753811/552284900/151287.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFDance.png" tvg-id="",RMF Dance
+http://bocian.io:8880/live/NL753811/552284900/151288.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/PolskieRadio24.png" tvg-id="",Polskie Radio 24
+http://bocian.io:8880/live/NL753811/552284900/151289.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFMItaloDisco.png" tvg-id="",OPEN.FM - Italo Disco
+http://bocian.io:8880/live/NL753811/552284900/151290.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/meloradio.png" tvg-id="",Meloradio - Warszawa
+http://bocian.io:8880/live/NL753811/552284900/151291.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFClassic.png" tvg-id="",RMF Classic
+http://bocian.io:8880/live/NL753811/552284900/151292.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPaloma.png" tvg-id="",Radio Paloma - Live
+http://bocian.io:8880/live/NL753811/552284900/151293.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/e2d2319c250d36d76eec25771f9f21fe.png" tvg-id="",Kiss FM UK
+http://bocian.io:8880/live/NL753811/552284900/151294.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlusWarszawa.png" tvg-id="",Radio Plus - Warszawa
+http://bocian.io:8880/live/NL753811/552284900/151295.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/MUZOFM.png" tvg-id="",MUZO.FM
+http://bocian.io:8880/live/NL753811/552284900/151296.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-CremaCafe.png" tvg-id="",OPEN.FM - Crema Café
+http://bocian.io:8880/live/NL753811/552284900/151297.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/meloradiokrakow.png" tvg-id="",Meloradio - Kraków
+http://bocian.io:8880/live/NL753811/552284900/151298.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFPRL.png" tvg-id="",RMF FM - PRL
+http://bocian.io:8880/live/NL753811/552284900/151299.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/1FM-DeepHouse.png" tvg-id="",1.FM - Deep House
+http://bocian.io:8880/live/NL753811/552284900/151300.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/89d5f31875c85c055b727b69382456b3.png" tvg-id="",Radio Pogoda - Wrocław
+http://bocian.io:8880/live/NL753811/552284900/151301.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/SlaskieRadio.png" tvg-id="",Śląskie Radio
+http://bocian.io:8880/live/NL753811/552284900/151302.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/SlonskyRadio.png" tvg-id="",Sunshine Live
+http://bocian.io:8880/live/NL753811/552284900/151303.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/PlanetRock.png" tvg-id="",Planet Rock - UK
+http://bocian.io:8880/live/NL753811/552284900/151304.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPartyHouse.png" tvg-id="",RadioParty House
+http://bocian.io:8880/live/NL753811/552284900/151305.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/meloradioKatowice.png" tvg-id="",Meloradio - Katowice
+http://bocian.io:8880/live/NL753811/552284900/151306.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Hip-HopUlica.png" tvg-id="",OPEN.FM - Hip-Hop Ulica
+http://bocian.io:8880/live/NL753811/552284900/151307.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPiekary.png" tvg-id="",Radio Piekary
+http://bocian.io:8880/live/NL753811/552284900/151308.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioSilesia.png" tvg-id="",Radio Silesia
+http://bocian.io:8880/live/NL753811/552284900/151309.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/Chilltrax.png" tvg-id="",Chilltrax
+http://bocian.io:8880/live/NL753811/552284900/151310.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMF80s.png" tvg-id="",RMF FM - 80s
+http://bocian.io:8880/live/NL753811/552284900/151311.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFPolskiePrzeboje.png" tvg-id="",RMF Polskie Przeboje
+http://bocian.io:8880/live/NL753811/552284900/151312.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Hip-HopKlasyk.png" tvg-id="",OPEN.FM - Hip-Hop Klasyk
+http://bocian.io:8880/live/NL753811/552284900/151313.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/meloradioBielskoBiala.png" tvg-id="",Meloradio - Bielsko-Biała
+http://bocian.io:8880/live/NL753811/552284900/151314.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Impreza.png" tvg-id="",OPEN.FM - Impreza
+http://bocian.io:8880/live/NL753811/552284900/151315.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Wesele.png" tvg-id="",OPEN.FM - Wesele
+http://bocian.io:8880/live/NL753811/552284900/151316.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-100%Hits.png" tvg-id="",OPEN.FM - 100% Hits
+http://bocian.io:8880/live/NL753811/552284900/151317.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/CostaDelMar-Chillout.png" tvg-id="",Costa Del Mar - Chillout
+http://bocian.io:8880/live/NL753811/552284900/151318.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/ChilliZETDeep.png" tvg-id="",Chilli ZET Deep
+http://bocian.io:8880/live/NL753811/552284900/151319.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/BBCWorldService.png" tvg-id="",BBC World Service
+http://bocian.io:8880/live/NL753811/552284900/151320.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioGraWroclaw.png" tvg-id="",Radio Gra Wrocław
+http://bocian.io:8880/live/NL753811/552284900/151321.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioKujawy.png" tvg-id="",Radio Kujawy
+http://bocian.io:8880/live/NL753811/552284900/151322.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/meloradioTorun.png" tvg-id="",Meloradio - Toruń
+http://bocian.io:8880/live/NL753811/552284900/151323.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/eurodance.png" tvg-id="",Eurodance
+http://bocian.io:8880/live/NL753811/552284900/151324.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-80sHits.png" tvg-id="",OPEN.FM - 80s Hits
+http://bocian.io:8880/live/NL753811/552284900/151325.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/Radio90pl.png" tvg-id="",Radio 90
+http://bocian.io:8880/live/NL753811/552284900/151326.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioKissKissItalia.png" tvg-id="",Radio Kiss Kiss Italia
+http://bocian.io:8880/live/NL753811/552284900/151327.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/Trojka-PolskieRadio.png" tvg-id="",Radio Trójka
+http://bocian.io:8880/live/NL753811/552284900/151328.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPartyKanalGłowny.png" tvg-id="",RadioParty Kanał Główny
+http://bocian.io:8880/live/NL753811/552284900/151329.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioHeimatmelodie.png" tvg-id="",Radio Heimatmelodie
+http://bocian.io:8880/live/NL753811/552284900/151330.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/GayFM.png" tvg-id="",Gay FM
+http://bocian.io:8880/live/NL753811/552284900/151331.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFGold.png" tvg-id="",RMF Gold
+http://bocian.io:8880/live/NL753811/552284900/151332.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteChillout.png" tvg-id="",Absolute Chillout
+http://bocian.io:8880/live/NL753811/552284900/151333.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AntyradioClassicRock.png" tvg-id="",Antyradio Classic Rock
+http://bocian.io:8880/live/NL753811/552284900/151334.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioSwissClassic.png" tvg-id="",Radio Swiss Classic
+http://bocian.io:8880/live/NL753811/552284900/151335.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/JazzRadio-Blues.png" tvg-id="",Jazz Radio - Blues
+http://bocian.io:8880/live/NL753811/552284900/151336.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Biesiada.png" tvg-id="",OPEN.FM - Biesiada
+http://bocian.io:8880/live/NL753811/552284900/151337.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioGRATorun.png" tvg-id="",Radio Gra Toruń
+http://bocian.io:8880/live/NL753811/552284900/151338.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/1FM-AmericasBestBallads.png" tvg-id="",1.FM - America's Best Ballads
+http://bocian.io:8880/live/NL753811/552284900/151339.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/radioCENTRUM.png" tvg-id="",Radio Centrum 106.4 fm
+http://bocian.io:8880/live/NL753811/552284900/151340.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/TechnoBaseFM.png" tvg-id="",TechnoBase.FM
+http://bocian.io:8880/live/NL753811/552284900/151341.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPlusBydgoszcz.png" tvg-id="",Radio Plus - Bydgoszcz
+http://bocian.io:8880/live/NL753811/552284900/151342.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFLove.png" tvg-id="",RMF Love
+http://bocian.io:8880/live/NL753811/552284900/151343.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/SlaskieRadio.png" tvg-id="",Slonsky Radio
+http://bocian.io:8880/live/NL753811/552284900/151344.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioZETKids.png" tvg-id="",Radio ZET Kids
+http://bocian.io:8880/live/NL753811/552284900/151345.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/ROCKANTENNE-HeavyMetal.png" tvg-id="",ROCK ANTENNE - Heavy Metal
+http://bocian.io:8880/live/NL753811/552284900/151346.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/1FM-AbsolutelyCountryHits.png" tvg-id="",1.FM - Absolutely Country Hits
+http://bocian.io:8880/live/NL753811/552284900/151347.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AStateofTranceSetsfromArminvanBuuren.png" tvg-id="",A State of Trance Sets from Armin van Buuren
+http://bocian.io:8880/live/NL753811/552284900/151348.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioTczew.png" tvg-id="",Radio Tczew 100,8 FM
+http://bocian.io:8880/live/NL753811/552284900/151349.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/TheJazzGroove-West.png" tvg-id="",The Jazz Groove - West
+http://bocian.io:8880/live/NL753811/552284900/151350.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/Czworka-PolskieRadioProgram4.png" tvg-id="",Radio Czwórka
+http://bocian.io:8880/live/NL753811/552284900/151351.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMF90s.png" tvg-id="",RMF 90s
+http://bocian.io:8880/live/NL753811/552284900/151352.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioHIT.png" tvg-id="",Radio HIT
+http://bocian.io:8880/live/NL753811/552284900/151353.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioFEST.png" tvg-id="",Radio FEST
+http://bocian.io:8880/live/NL753811/552284900/151354.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/newonceradio.png" tvg-id="",Newonce Radio
+http://bocian.io:8880/live/NL753811/552284900/151356.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioWesoleSlonzoki.png" tvg-id="",Radio Wesołe Ślonzoki
+http://bocian.io:8880/live/NL753811/552284900/151357.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/Dwojka-PolskieRadioProgram2.png" tvg-id="",Radio Dwójka
+http://bocian.io:8880/live/NL753811/552284900/151358.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RT180s.png" tvg-id="",RT1 80s
+http://bocian.io:8880/live/NL753811/552284900/151359.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-LejdisCafe.png" tvg-id="",OpenFM - Lejdis Café
+http://bocian.io:8880/live/NL753811/552284900/151360.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioBielsko.png" tvg-id="",Radio Bielsko 106,7
+http://bocian.io:8880/live/NL753811/552284900/151361.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/JazzRadio-ClassicJazz.png" tvg-id="",Jazz Radio - Classic Jazz
+http://bocian.io:8880/live/NL753811/552284900/151362.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Klub90.png" tvg-id="",Open.FM - Klub 90
+http://bocian.io:8880/live/NL753811/552284900/151363.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-PoPolsku.png" tvg-id="",OPEN.FM - Po Polsku 80/90
+http://bocian.io:8880/live/NL753811/552284900/151364.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioKolor.png" tvg-id="",Radio Kolor
+http://bocian.io:8880/live/NL753811/552284900/151365.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/CafedelMarRadio.png" tvg-id="",Café del Mar Radio
+http://bocian.io:8880/live/NL753811/552284900/151366.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RusskoeRadio.png" tvg-id="",Russkoe Radio Русское Радио
+http://bocian.io:8880/live/NL753811/552284900/151368.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioPartyEnergy2000.png" tvg-id="",Energy 2000
+http://bocian.io:8880/live/NL753811/552284900/151369.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/HeartLondon.png" tvg-id="",Heart London
+http://bocian.io:8880/live/NL753811/552284900/151370.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/CapitalFMLondon.png" tvg-id="",Capital FM London
+http://bocian.io:8880/live/NL753811/552284900/151371.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio.png" tvg-id="",Absolute Radio
+http://bocian.io:8880/live/NL753811/552284900/151372.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio90s.png" tvg-id="",Absolute Radio 90s
+http://bocian.io:8880/live/NL753811/552284900/151373.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio80s.png" tvg-id="",Absolute Radio 80s
+http://bocian.io:8880/live/NL753811/552284900/151374.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio70s.png" tvg-id="",Absolute Radio 70s
+http://bocian.io:8880/live/NL753811/552284900/151375.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/AbsoluteRadio60s.png" tvg-id="",Absolute Radio 60s
+http://bocian.io:8880/live/NL753811/552284900/151376.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/" tvg-id="",LBC
+http://bocian.io:8880/live/NL753811/552284900/151377.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/ENERGYFitness.png" tvg-id="",Energy Fitness
+http://bocian.io:8880/live/NL753811/552284900/151378.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RadioCompanyFitness.png" tvg-id="",Radio Company Fitness
+http://bocian.io:8880/live/NL753811/552284900/151379.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Fitness.png" tvg-id="",OPEN.FM - Fitness
+http://bocian.io:8880/live/NL753811/552284900/151380.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/1AFitness.png" tvg-id="",1A Fitness
+http://bocian.io:8880/live/NL753811/552284900/151381.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFFitnessRock.png" tvg-id="",RMF Fitness Rock
+http://bocian.io:8880/live/NL753811/552284900/151382.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/RMFFitnes.png" tvg-id="",RMF Fitness
+http://bocian.io:8880/live/NL753811/552284900/151383.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/EskaDance.png" tvg-id="",Eska Dance
+http://bocian.io:8880/live/NL753811/552284900/151384.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/OpenFM-Latino.png" tvg-id="",OPEN.FM - Latino Hits
+http://bocian.io:8880/live/NL753811/552284900/151385.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/KIISEXTRA.png" tvg-id="",KIIS EXTRA 95.8 CORFU
+http://bocian.io:8880/live/NL753811/552284900/151386.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/BBC1Xtra.png" tvg-id="",BBC Radio 1Xtra
+http://bocian.io:8880/live/NL753811/552284900/151387.ts
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://logo.tvmedia.io/images/radio/VoxFM.png" tvg-id="",VOX FM
+http://bocian.io:8880/live/NL753811/552284900/151388.ts
